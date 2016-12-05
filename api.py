@@ -16,7 +16,7 @@ app.config['SWAGGER_INFO'] = {
     },
     'license': {
         'name': 'GPL',
-        'url': 'https://github.com/antweiss/oto-products/blob/master/LICENSE',
+        'url': 'https://github.com/renelippert/oto-products/blob/master/LICENSE',
     }
 }
 
